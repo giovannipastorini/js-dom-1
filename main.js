@@ -1,4 +1,15 @@
-/* console.log("ciao ciaoz"); */
+//TRACCIA:
+//1. Preparation (select the dom nodes)
+//-select the img with id...
+//-select the button with id...
+
+//2. Elaboration:
+//-attach an event listener to the button 
+//-read the image node and update the src value
+
+
+
+
 const toggleElement =document.getElementById('toggle');
 const lightbulb=document.getElementById("bulb");
 
